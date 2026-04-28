@@ -1,0 +1,7 @@
+pandas
+prophet
+pulp
+matplotlib
+plotly
+streamlit
+openpyxl
